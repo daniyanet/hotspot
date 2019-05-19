@@ -1,2 +1,1 @@
-# hotspot
-daniy@Net
+https://api.whatsapp.com/
